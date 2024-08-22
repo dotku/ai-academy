@@ -11,5 +11,6 @@
 
 * OpenAI
 * Antropic
+* Mistral
 * xAI
 * LLAMA
